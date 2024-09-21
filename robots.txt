@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eibpe.github.io/WWC/sitemap.WWC.gz
